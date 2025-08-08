@@ -18,8 +18,8 @@ A Power BI dashboard analyzing an Indian e-commerce store: sales performance, pr
 ## 🗂️ Project Structure
 - `dashboard.pbix` — the report file (sample size)
 - `images/` — screenshots (see below)
-- `data/` — sample CSVs **or** links to the source dataset
-- `docs/` — model diagram, measure list
+- `data/` — sample CSVs
+-  `docs/` — model diagram, measure list
 
 ## 📸 Screenshots
 | Overview | Product Trends | Geography |
